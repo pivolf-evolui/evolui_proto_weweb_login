@@ -1,1 +1,20 @@
-{}
+{
+    "1fa0dd68-5069-436c-9a7d-3b54c340f1fa": {
+        "id": "d1aa5a5a-73c7-41e7-a6c3-06ed0c8cbd0e",
+        "name": "Supabase Auth",
+        "designId": "a1cdc827-5732-431b-8696-e4c81899b752",
+        "pluginId": "1fa0dd68-5069-436c-9a7d-3b54c340f1fa",
+        "publicData": {}
+    },
+    "f9ef41c3-1c53-4857-855b-f2f6a40b7186": {
+        "id": "dd94e955-2fed-4a38-acd7-64a8fee71d52",
+        "name": "Supabase",
+        "designId": "a1cdc827-5732-431b-8696-e4c81899b752",
+        "pluginId": "f9ef41c3-1c53-4857-855b-f2f6a40b7186",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1kYmx4Y3JtYm13dG16aWJxYXplIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDA2NzI2OTEsImV4cCI6MjA1NjI0ODY5MX0.l6Mwq1GngQFLvoDWcgF91d7Lxq-Ds6qw0fW9fjTvdjw",
+            "projectUrl": "https://mdblxcrmbmwtmzibqaze.supabase.co",
+            "realtimeTables": {}
+        }
+    }
+}
